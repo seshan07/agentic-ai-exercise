@@ -60,4 +60,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     result = run_agent(sys.argv[1])
-    print(json.dumps(result, indent=2))
+    print(json.dumps(result, indent=2)) 
