@@ -25,4 +25,4 @@ Improvements with more time
 - Configurable rules
 - Logging and monitoring
 - Integration with an LLM for nuanced reasoning
-- Confidence scoring
+- Confidence scoring 
