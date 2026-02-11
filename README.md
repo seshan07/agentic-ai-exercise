@@ -76,4 +76,4 @@ Possible improvements
 
 Summary
 
-This implementation demonstrates structured agent design, explicit decision boundaries, defensive programming, negative test coverage, and safe escalation handling. The emphasis is clarity, reliability, and ownership of system behavior.
+This implementation demonstrates structured agent design, explicit decision boundaries, defensive programming, negative test coverage, and safe escalation handling. The emphasis is clarity, reliability, and ownership of system behavior. 
